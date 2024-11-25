@@ -1,0 +1,3 @@
+echo "Commit 2: Experimenting with fixes." > experimental.txt
+git add experimental.txt
+git commit -m "Commit 2: Experimental fixes"
